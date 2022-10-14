@@ -1,2 +1,0 @@
-##
-Up Down Right Diagonal
